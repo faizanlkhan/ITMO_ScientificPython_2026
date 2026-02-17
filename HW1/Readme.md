@@ -1,4 +1,4 @@
-\# HW1 - Learning Git Branching Progress
+# HW1 - Learning Git Branching Progress
 
 
 
@@ -6,11 +6,11 @@ This folder contains Base64 encoded screenshots of completed levels from the Mai
 
 
 
-\## How to convert text back to image
+## How to convert text back to image
 
 
 
-\### Windows (PowerShell)
+### Windows (PowerShell)
 
 
 
@@ -24,7 +24,7 @@ certutil -decode remote.txt remote.png
 
 
 
-\### Linux / Mac
+### Linux / Mac
 
 ```bash
 
